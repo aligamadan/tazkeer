@@ -1,0 +1,6 @@
+{
+  "name": "تذكير (Tazkeer)",
+  "description": "رفيقك الإسلامي اليومي للصلاة والأذكار والمصحف الشريف وورد العبادة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
