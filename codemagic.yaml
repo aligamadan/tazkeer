@@ -13,3 +13,4 @@ workflows:
           ./gradlew assembleRelease --no-daemon
     artifacts:
       - "**/build/outputs/apk/**/*.apk"
+      
