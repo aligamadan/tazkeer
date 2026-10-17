@@ -8,6 +8,7 @@ workflows:
     scripts:
       - name: Build Android Release APK
         script: |
+          gradle wrapper
           chmod +x gradlew
           ./gradlew assembleRelease --no-daemon
     artifacts:
